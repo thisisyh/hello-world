@@ -1,2 +1,2 @@
 # hello-world
-## this world if full of pain.
+## this world is full of pain.
